@@ -21,7 +21,7 @@ Assembly Typing Game is an interactive and instructive gaming experience designe
 
 ## Usage
 
-1. Commence the game and opt for your preferred difficulty level: easy, medium, or hard.
+1. Start the game and opt for your preferred difficulty level: easy, medium, or hard.
 2. As the game initiates, a sequence of assembly language instructions will appear on-screen.
 3. Type each instruction promptly and accurately.
 4. Accrue points for correctly entered instructions while incurring deductions for errors.
@@ -33,9 +33,6 @@ Assembly Typing Game is an interactive and instructive gaming experience designe
 - **Medium Mode:** Intermediate level of difficulty. Moderately-paced gameplay.
 - **Hard Mode:** Advanced level of challenge. Rapid-paced gameplay.
 
-## Demo
-
-View a demonstration of the game in action: [Assembly Typing Game Demo](https://youtu.be/KBK-lsxDhVE)
 
 ## Contributing
 
