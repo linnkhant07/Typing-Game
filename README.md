@@ -2,14 +2,15 @@
 
 ## Overview
 
-Assembly Typing Game is an interactive and instructive gaming experience designed to enhance your typing proficiency while acquainting you with assembly language. Offering three distinct modes—easy, medium, and hard—the game progressively introduces longer word lengths to challenge players at various skill levels.
+Assembly Typing Game is an interactive and instructive gaming experience designed to enhance your typing proficiency while acquainting you with assembly language. Offering three distinct modes—easy, medium, and hard—the game progressively introduces longer word lengths to challenge players at various skill levels. 
+
+<i> This project was particularly challenging because everything had to be written in assembly language only with the help of Irvine library. </i>
 
 ## Features
 
-- **Typing Skill Enhancement:** Elevate your typing speed and precision while familiarizing yourself with assembly language commands.
-- **Varied Difficulty Levels:** Select from easy, medium, and hard modes, each presenting escalating complexities in word lengths.
-- **Educational Element:** Acquire knowledge of assembly language instructions during gameplay, enriching your grasp of low-level programming fundamentals.
-- **Scoring Mechanism:** Monitor your progress via a scoring system that rewards accuracy and swiftness.
+- **Typing Skill Enhancement:** Increase your typing speed and precision while familiarizing yourself with assembly language.
+- **Varied Difficulty Levels:** Select from easy, medium, and hard modes, each presenting complexities in word lengths.
+- **Scoring Mechanism:** Monitor your progress via a scoring system that rewards accuracy and words typed.
 - **Intuitive Interface:** Navigate through gameplay effortlessly with a user-friendly interface designed for seamless interaction.
 
 ## Installation
@@ -19,20 +20,19 @@ Assembly Typing Game is an interactive and instructive gaming experience designe
 3. Compile the game's source code utilizing your preferred assembler.
 4. Initiate gameplay by executing the generated executable file.
 
-## Usage
+## Gameplay
 
-1. Start the game and opt for your preferred difficulty level: easy, medium, or hard.
-2. As the game initiates, a sequence of assembly language instructions will appear on-screen.
+1. Start the game and choose your preferred difficulty level: easy, medium, or hard.
+2. Once the game starts, a sequence of instructions will appear on-screen.
 3. Type each instruction promptly and accurately.
-4. Accrue points for correctly entered instructions while incurring deductions for errors.
+4. Collect points for correctly entered instructions while incurring deductions for errors.
 5. Advance through the game, striving for a high score while honing your assembly language typing skills.
 
 ## Modes
 
-- **Easy Mode:** Tailored for novices. Leisurely-paced gameplay.
-- **Medium Mode:** Intermediate level of difficulty. Moderately-paced gameplay.
-- **Hard Mode:** Advanced level of challenge. Rapid-paced gameplay.
-
+- **Easy Mode:** Features short words, perfect for beginners.
+- **Medium Mode:** Presents moderate-length words for a balanced challenge.
+- **Hard Mode:** Offers an advanced level of challenge with long words, providing a highly challenging experience.
 
 ## Contributing
 
